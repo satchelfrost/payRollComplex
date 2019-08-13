@@ -1,4 +1,6 @@
-## Change boring excel data into a beautiful Microsoft word doc
+## Automatically change boring excel data into a beautiful Microsoft word doc
+
+![](payRoll.PNG)
 
 This program is a more complex payroll document generator because it is based off of a real payroll
 from a restaurant (all names are fake in the excel document to protect peoples' identities).
